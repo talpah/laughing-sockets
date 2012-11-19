@@ -1,4 +1,7 @@
 {
+    "autoload": {
+        "psr-0": {"LS": "app/"}
+    },
     "require": {
         "cboden/Ratchet": "0.2.*"
     }
